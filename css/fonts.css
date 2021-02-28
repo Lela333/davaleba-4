@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'BPG Irubaqidze';
+    src: url('../fonts/bpg-irubaqidze-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-irubaqidze-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-irubaqidze-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-irubaqidze-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-irubaqidze-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-irubaqidze-webfont.svg#bpg_irubaqidzeregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Righteous';
+    src: url('../fonts/eng.font/Righteous-Regular.eot');
+    src: url('../fonts/eng.font/Righteous-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/eng.font/Righteous-Regular.woff2') format('woff2'),
+        url('../fonts/eng.font/Righteous-Regular.woff') format('woff'),
+        url('../fonts/eng.font/Righteous-Regular.ttf') format('truetype'),
+        url('../fonts/eng.font/Righteous-Regular.svg#Righteous-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
